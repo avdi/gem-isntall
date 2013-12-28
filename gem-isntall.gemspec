@@ -1,11 +1,10 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'gem/isntall/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "gem-isntall"
-  spec.version       = Gem::Isntall::VERSION
+  spec.version       = "1.0.0"
   spec.authors       = ["Avdi Grimm"]
   spec.email         = ["avdi@avdi.org"]
   spec.description   = %q{An alias for gem install}
