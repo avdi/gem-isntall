@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Avdi Grimm"]
   spec.email         = ["avdi@avdi.org"]
   spec.description   = %q{An alias for gem install}
-  spec.summary       = %q{Alias `gem install` to `gem isntall`. Because I can't type good.}
+  spec.summary       = %q{Alias `gem install` to `gem isntall`. Because I can't type well.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
