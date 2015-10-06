@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["avdi@avdi.org"]
   spec.description   = %q{An alias for gem install}
   spec.summary       = %q{Alias `gem install` to `gem isntall`. Because I can't type good.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/avdi/gem-isntall"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
